@@ -6,7 +6,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashnayan8795&label=Profile%20views&color=0e75b6&style=flat" alt="yashnayan8795" /> </p>
 
 - 🌱 I’m currently learning **Machine Learning**
-
+- 👀 I’m interested in Web Dev and AI ML .
+- 💞️ I’m looking to collaborate on some new ideas.
 - 📫 How to reach me **nayanyash11@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
