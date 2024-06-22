@@ -56,7 +56,7 @@
 <h3 align="left"> Github Stats... </h3>
 <br>
 <p align="center">
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yashnayan8795&show_icons=true&locale=en&layout=compact" alt="yashnayan8795" /></p>
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yashnayan8795&show_icons=true&locale=en&layout=compact" alt="yashnayan8795" /></p>
   <br>
   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yashnayan8795&show_icons=true&locale=en" alt="yashnayan8795" /></p>
   <br>
