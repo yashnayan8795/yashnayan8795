@@ -8,7 +8,7 @@
 
 
 <img src="https://komarev.com/ghpvc/?username=yashnayan8795&label=Profile%20views&color=0e75b6&style=flat" alt="yashnayan8795" /> 
----
+
 
 ## 🌐 Connect With Me:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/nayanyash2914/)  
