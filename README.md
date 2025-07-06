@@ -75,20 +75,37 @@
 
 ---
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats
+
 <div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yashnayan8795&show_icons=true&locale=en" alt="yashnayan8795" /><br><br>
- <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yashnayan8795&" alt="yashnayan8795_top languages" />
+   <!-- GitHub Streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yashnayan8795&theme=tokyonight" alt="Yash's GitHub streak" />
   <br><br>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yashnayan8795&show_icons=true&locale=en&layout=compact" alt="yashnayan8795" />
+  <!-- GitHub Stats -->
+  <a href="https://github.com/yashnayan8795">
+    <img src="https://github-readme-stats.vercel.app/api?username=yashnayan8795&show_icons=true&line_height=29&theme=tokyonight" alt="Yash's GitHub stats" />
+  </a>
+  
+  <!-- Donut-style Top Languages -->
+  <a href="https://github.com/yashnayan8795/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashnayan8795&layout=donut&exclude_repo=Space_Catalogue,Jupyter_Python&langs_count=5&theme=tokyonight" alt="Donut Top Languages - yashnayan8795" />
+  </a>
+
 </div>
 
 ---
 
-# 📊 LeetCode Stats:
+## 📊 LeetCode Stats
+
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/Yashnayan?theme=catppuccinMocha&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats"/>
+  <!-- LeetCode badges -->
+   <img src="https://leetcard.jacoblin.cool/Yashnayan?ext=heatmap&theme=catppuccinMocha&font=Fira%20Code" alt="LeetCode Heatmap" width="400" />
+  <br>
+  <img src="https://leetcode-badge-showcase.vercel.app/api?username=yashnayan&theme=tokyonight" alt="LeetCode Badges" width="400" />
+  <br>
+ 
 </div>
+
 
 ---
 
