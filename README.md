@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://github.com/yashnayan8795">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=6E9BF7&center=true&vCenter=true&width=700&lines=Backend+Developer+%F0%9F%9A%80;Systems+%26+DevOps+Enthusiast+%F0%9F%9B%A0%EF%B8%8F;Problem+Solver+%F0%9F%A7%A9;Linux+Tinkerer+%F0%9F%90%A7;Building+things+that+scale+%E2%9A%99%EF%B8%8F" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=6E9BF7&center=true&vCenter=true&width=700&lines=Backend+Developer+%F0%9F%9A%80;Systems+%26+DevOps+Enthusiast+%F0%9F%9B%A0%EF%B8%8F;Problem+Solver+%F0%9F%A7%A9;Building+things+that+scale+%E2%9A%99%EF%B8%8F" alt="Typing SVG" />
   </a>
 </div>
 
@@ -63,17 +63,26 @@ philosophy: "Ship it. Fix it. Make it scale."
 
 <div align="center">
 
-### 〔 Languages & Frameworks 〕
+### 〔 Programming Languages 〕
+<img src="https://skillicons.dev/icons?i=cpp,java,js,ts,python&theme=dark&perline=6" />
 
-<img src="https://skillicons.dev/icons?i=cpp,js,ts,nodejs,fastapi,react,nextjs&theme=dark&perline=7" />
+### 〔 Backend Development 〕
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi&theme=dark&perline=6" />
+
+### 〔 Frontend Development 〕
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css&theme=dark&perline=6" />
+
+### 〔 Databases & Storage 〕
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis&theme=dark&perline=6" />
 
 ### 〔 DevOps & Cloud 〕
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,git,jenkins&theme=dark&perline=7" />
 
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,git,sonarqube,jenkins&theme=dark&perline=7" />
+### 〔 Messaging & Real-Time Systems 〕
+<img src="https://skillicons.dev/icons?i=kafka&theme=dark&perline=6" />
 
 ### 〔 Operating Systems 〕
-
-<img src="https://skillicons.dev/icons?i=windows,linux&theme=dark&perline=7" />
+<img src="https://skillicons.dev/icons?i=linux,windows&theme=dark&perline=6" />
 
 </div>
 
@@ -87,7 +96,7 @@ philosophy: "Ship it. Fix it. Make it scale."
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yashnayan8795&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6E9BF7&icon_color=6E9BF7&text_color=c9d1d9" />
 </a>
 <a href="https://github.com/yashnayan8795">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashnayan8795&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6E9BF7&text_c olor=c9d1d9&langs_count=8" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashnayan8795&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6E9BF7&text_color=c9d1d9&langs_count=8" />
 </a>
 
 </div>
@@ -110,6 +119,10 @@ philosophy: "Ship it. Fix it. Make it scale."
   <a href="https://leetcode.com/u/yashnayan/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-yashnayan-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0d1117" />
   </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/yash-nayan/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Yash%20Nayan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" />
+</a>
 </div>
 
 <br/>
