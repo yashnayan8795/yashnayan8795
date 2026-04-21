@@ -118,9 +118,11 @@ philosophy: "Ship it. Fix it. Make it scale."
 
 ---
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/yashnayan8795/yashnayan8795/output/snake.svg" alt="Snake animation" />
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yashnayan8795/yashnayan8795/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yashnayan8795/yashnayan8795/output/github-snake.svg">
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/yashnayan8795/yashnayan8795/output/github-snake.svg">
+</picture>
 
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:24243e,50:302b63,100:0f0c29" />
